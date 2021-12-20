@@ -37,8 +37,6 @@
 	"notebook.output.textLineLimit": 28,
 	"telemetry.telemetryLevel": "off",
 	"git.alwaysShowStagedChangesResourceGroup": true,
-	"git.autofetch": true,
-	"git.autofetchPeriod": 420,
 	"git.detectSubmodulesLimit": 14,
 	"git.enableCommitSigning": true,
 	"git.inputValidationLength": 70,
